@@ -1,0 +1,14 @@
+body{
+   margin:0;
+   background-color:rgba(200,80,40,1);
+}
+.titre{
+   text-align:right;
+   margin-right:15px;
+}
+#nouveau{
+ color:#00ff00;
+ font-family:'Arial';
+ font-size:60px;
+ font-style:italic;b
+}
